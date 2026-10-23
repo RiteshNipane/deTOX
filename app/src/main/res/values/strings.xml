@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">deTOX</string>
+    <!-- URL of the hosted profiles.json (v2 backend or any static host). Empty = bundled profiles only. -->
+    <string name="remote_config_url" translatable="false"></string>
+    <string name="accessibility_description">deTOX reads on-screen structure in Instagram and YouTube to count the reels and Shorts you watch. Nothing leaves your device.</string>
+</resources>

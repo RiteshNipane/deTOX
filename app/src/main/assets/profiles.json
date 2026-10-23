@@ -1,0 +1,106 @@
+{
+  "version": 1,
+  "profiles": [
+    {
+      "id": "instagram",
+      "displayName": "Instagram Reels",
+      "packageName": "com.instagram.android",
+      "reelsContainerIds": [
+        "com.instagram.android:id/clips_viewer_view_pager"
+      ],
+      "reelsContentDescriptions": [
+        "Reels"
+      ],
+      "reelItemIds": [
+        "com.instagram.android:id/clips_video_container"
+      ],
+      "aiLabelStrings": [
+        "AI content",
+        "AI info",
+        "AI-generated",
+        "Made with AI"
+      ],
+      "aiHintStrings": [
+        "#ai",
+        "#aiart",
+        "#aivideo",
+        "#aivideos",
+        "#aigenerated",
+        "#aigeneratedvideo",
+        "#aianimation",
+        "#aireels",
+        "#aicontent",
+        "#aigc",
+        "#aiartwork",
+        "#generativeai",
+        "#madewithai",
+        "#madewithcantina",
+        "#cantina",
+        "#sora",
+        "#sora2",
+        "#veo",
+        "#veo3",
+        "#kling",
+        "#midjourney",
+        "#runway",
+        "#aiinfluencer",
+        "#aimemes",
+        "made with ai",
+        "ai generated",
+        "ai-generated",
+        "generated with ai",
+        "created with ai",
+        "made with sora"
+      ]
+    },
+    {
+      "id": "youtube_shorts",
+      "displayName": "YouTube Shorts",
+      "packageName": "com.google.android.youtube",
+      "reelsContainerIds": [
+        "com.google.android.youtube:id/reel_recycler"
+      ],
+      "reelsContentDescriptions": [
+        "Shorts"
+      ],
+      "reelItemIds": [
+        "com.google.android.youtube:id/reel_player_page_container"
+      ],
+      "aiLabelStrings": [
+        "Altered or synthetic content"
+      ],
+      "aiHintStrings": [
+        "#ai",
+        "#aiart",
+        "#aivideo",
+        "#aivideos",
+        "#aigenerated",
+        "#aigeneratedvideo",
+        "#aianimation",
+        "#aireels",
+        "#aicontent",
+        "#aigc",
+        "#aiartwork",
+        "#generativeai",
+        "#madewithai",
+        "#madewithcantina",
+        "#cantina",
+        "#sora",
+        "#sora2",
+        "#veo",
+        "#veo3",
+        "#kling",
+        "#midjourney",
+        "#runway",
+        "#aiinfluencer",
+        "#aimemes",
+        "made with ai",
+        "ai generated",
+        "ai-generated",
+        "generated with ai",
+        "created with ai",
+        "made with sora"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+# Install in a separate venv from training: ai-edge-torch pins its own torch/tensorflow versions.
+ai-edge-torch
+ai-edge-quantizer
+ai-edge-litert
+pillow
+numpy

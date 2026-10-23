@@ -1,0 +1,7 @@
+raw/
+data/
+runs/
+export/
+__pycache__/
+*.pyc
+.venv/
