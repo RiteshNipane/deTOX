@@ -4,10 +4,13 @@ An Android digital-wellbeing tool that counts the short-form videos you watch in
 
 ## Demo
 
-[Watch the demo video](https://github.com/USERNAME/REPO/releases/download/v1.0.0/demo.mp4)
+[Watch the demo video](https://github.com/RiteshNipane/deTOX/releases/download/v1.0.0/WhatsApp.Video.2026-10-23.at.4.34.44.PM.mp4)
 
-[Download the APK](https://github.com/USERNAME/REPO/releases/download/v1.0.0/app-release.apk)
+## Download
 
+[Download the APK (v1.0.0)](https://github.com/RiteshNipane/deTOX/releases/download/v1.0.0/app-debug.apk)
+
+To install, allow installs from unknown sources, open the APK, then enable the deTOX accessibility service and overlay permission when prompted. This is a debug build and detection is still being tuned, so behaviour may vary by device and app version.
 ## Status
 
 All phases are written (counter, stats and limits, label-based blocking, ML classifier, release setup). Two caveats:
